@@ -1,5 +1,5 @@
 
-# Project Title:
+# Project Title: Monitoring Heartbeat and Saturation level
 Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
 ![Cover GIF](doc/Arduino_LED.gif?raw=true)
 
